@@ -31,9 +31,8 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taskfinity&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img src="https://streak-stats.demolab.com/?user=taskfinity&theme=tokyonight&hide_border=true&background=0d1117&ring=2EA043&fire=18BFFF&currStreakLabel=18BFFF" alt="GitHub Streak" />
 </p>
-
 <br>
 
 <p align="center">
