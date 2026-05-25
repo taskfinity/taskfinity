@@ -1,51 +1,44 @@
 <p align="center">
-  <img src="hero-banner.png" alt="TaskFinity Premium Hero Banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:18BFFF,100:2EA043&height=220&section=header&text=TaskFinity&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=AI%20Automation%20%26%20Web%20Development&descSize=22&descAlignY=72" />
 </p>
 
 ---
 
 <p align="center">
-  Hi there! We are <strong>TaskFinity</strong> 👋. A high-impact technology agency specializing in bringing businesses into the future. We bridge the gap between <strong>human innovation</strong> and <strong>technological precision</strong>.
+  🚀 We are a technology agency focused on bringing businesses into the future. We bridge the gap between <strong>human innovation</strong> and <strong>AI precision</strong>.
 </p>
 
 ---
 
-<br>
+### ⚙️ Our Core Focus
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Emojis/main/Emojis/Objects/Gear.png" alt="Gear" width="28" height="28" /> Explore the TaskFinity Ecosystem
-
-Zamiast generycznych list, zobacz nasz zintegrowany przepływ inteligentnej automatyzacji i rozwoju.
-
-<p align="center">
-  <img src="automation-diagram.png" alt="TaskFinity Integrated Automation Ecosystem Diagram" width="100%">
-</p>
-
-### Our Specialized Intelligence
-
-| Specialization | Outcome |
+| 🤖 AI Business Automation | 🌐 Modern Web Development |
 | :--- | :--- |
-| **🤖 AI Business Automation** | engineering sophisticated workflows (n8n, Make, OpenAI API) that eliminate operational bottlenecks. |
-| **🌐 Modern Web Development** | designing fast, responsive, conversion-optimized websites (React, Tailwind, modern CMS). |
+| We engineer smart workflows (n8n, Make, OpenAI API) that eliminate manual tasks, automate data scraping, and boost ROI. | We design and build fast, responsive, and aesthetically striking websites tailored to your business needs. |
 
 ---
 
-<br>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Emojis/main/Emojis/Objects/Laptop.png" alt="Laptop" width="28" height="28" /> Technologies We Command
-
-Zunifikowany, zautomatyzowany stos technologiczny stworzony dla maksymalnej wydajności. Zapomnij o generycznych listach ikon.
+### 💻 Technologies We Master
 
 <p align="center">
-  <img src="tech-stack.png" alt="Unified High-Performance Tech Stack Visualization" width="100%">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,html,css,nodejs,figma,gcp,aws,docker,github&theme=dark" />
+  </a>
 </p>
 
 ---
 
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=taskfinity&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</p>
+
 <br>
 
 <p align="center">
-  <strong>Ready to Accelerate? Your efficiency starts now.</strong><br><br>
+  <strong>Ready to Accelerate?</strong><br><br>
   <a href="mailto:kontakt@taskfinity.pl" target="_blank">
-    <img src="https://img.shields.io/badge/%3A_Contact_Us_Now-kontakt%40taskfinity.pl-2EA043?style=for-the-badge&logo=maildotru&logoColor=white" alt="Contact Us Button" />
+    <img src="https://img.shields.io/badge/Contact_Us_Now-kontakt%40taskfinity.pl-2EA043?style=for-the-badge" alt="Contact Us Button" />
   </a>
 </p>
