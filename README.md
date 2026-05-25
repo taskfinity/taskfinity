@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:18BFFF,100:2EA043&height=220&section=header&text=TaskFinity&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=AI%20Automation%20%26%20Web%20Development&descSize=22&descAlignY=72" />
+  <a href="https://github.com/taskfinity">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=2EA043&center=true&vCenter=true&width=800&height=120&lines=Welcome+to+TaskFinity;AI+Business+Automation;Modern+Web+Development" alt="TaskFinity Animated Header" />
+  </a>
 </p>
 
 ---
